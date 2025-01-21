@@ -1,0 +1,22 @@
+.container {
+	text-align: center;
+	background-color: #568259;
+	color: #F1FFFA;
+	border-radius: 25px;
+}
+body {
+	background-color: #4E6850;
+}
+button {
+	width: 100px;
+}
+.footer h4 {
+	text-align: center;
+	color: #F1FFFA;
+	background-color: #568259;
+}
+.container-fluid {
+	text-align: center;
+	background-color: #568259;
+	color: #F1FFFA;
+}
